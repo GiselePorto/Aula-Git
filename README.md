@@ -11,6 +11,8 @@
 
 ## Alguns comandos git: 
 
+<hr/>
+
 ## git add
 Move as alterações do diretório de trabalho para a área de staging. 
 
