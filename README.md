@@ -7,6 +7,8 @@
 <h2> Git é um grande aliado caso saiba utilizar seus comandos corretamente. Apenas arrastar seu conteúdo pode ser mal interpretado pelas empresas de tecnologia. 
   Ao saber os comandos Git, você aumenta sua bolsa de linguagens em programação, extende novas possibilidades para códigos maiores ao subir repositório e etc. </h2>
 
+<hr/>
+
 ## Alguns comandos git: 
 
 ## git add
